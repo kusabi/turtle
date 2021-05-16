@@ -1,0 +1,7 @@
+[submodule "turtle/vendor/glfw"]
+	path = turtle/vendor/glfw
+	url = https://github.com/glfw/glfw
+
+[submodule "turtle/vendor/glad"]
+	path = turtle/vendor/glad
+	url = https://github.com/Dav1dde/glad

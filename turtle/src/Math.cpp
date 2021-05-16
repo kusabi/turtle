@@ -1,4 +1,4 @@
-#include "../include/Math.hpp"
+#include "Math.h"
 
 #include <cmath>
 
